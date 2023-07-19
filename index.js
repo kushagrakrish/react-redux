@@ -7,7 +7,7 @@ const redux = require("redux");
 const createStore = redux.createStore;
 const combineReducres = redux.combineReducers;
 
-// Crating Action
+// Crating Actioncdxcdxcdxcdx
 const BUY_CAKE = "BUY_CAKE";
 const BUY_ICECREAM = "ICE_CREAM";
 
